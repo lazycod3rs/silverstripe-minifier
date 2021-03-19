@@ -1,5 +1,5 @@
 {
-	"name": "axllent/silverstripe-minifier",
+	"name": "lazycoders/silverstripe-minifier",
 	"description": "CSS & JavaScript minifier, in PHP for SilverStripe 4 integrating matthiasmullie/minify",
 	"type": "silverstripe-vendormodule",
 	"homepage": "https://github.com/axllent/silverstripe-minifier",
